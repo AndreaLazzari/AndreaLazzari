@@ -8,4 +8,5 @@ I am a Master student in Physics of Data, in my Github you can find some project
 ### 🚀 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=AndreaLazzari&show_icons=true&theme=tokyonight&line_height=20)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaLazzari&theme=tokyonight&layout=compact&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaLazzari&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
