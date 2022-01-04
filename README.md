@@ -4,6 +4,7 @@ I am a Master student in Physics of Data, in my Github you can find some project
 
 ### 🕵🏻‍♂️ Contact info
 * E-mail: a.lazzari@outlook.it
+*  [![inkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-lazzari7/)
 
 [ ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ](https://www.cplusplus.com)
 
