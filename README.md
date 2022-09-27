@@ -8,7 +8,7 @@ The master aims at training a new generation of physicists, capable of combining
 
 My main interests are Machine Learning, Artificial Intelligence, Statistics and in general the applications of Data Analysis techniques in "real-world" situations.
 
-To learn more about me, visit my personal portfolio at --> 
+To learn more about me, visit my personal website --> https://andrealazzari.github.io/
 
 
 ### 🕵🏻‍♂️ Contact info
