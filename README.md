@@ -9,7 +9,9 @@ My main interests are Machine Learning, Artificial Intelligence, Statistics and 
 I really enjoy working as a team and I am eager to improve myself learning new things from other people.
 
 
-I developed a passion for computers, smartphones and for the whole tech-world. Moreover I am especially enthusiastic about sports, such as Soccer and Formula1 Grand Prix.
+I developed a passion for computers, smartphones and for the whole tech-world.
+
+Moreover I am especially enthusiastic about sports, such as Soccer and Formula1 Grand Prix.
 
 ### 🕵🏻‍♂️ Contact info
 * E-mail: a.lazzari@outlook.it
