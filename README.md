@@ -3,8 +3,12 @@
 I am a Master student in Physics of Data, in my Github you can find some projects developed during my studies ⚡
 
 After a bachelor's degree in Physics, in October 2021 I started the master's degree in Physics of Data at the University of Padua. The master aims at training a new generation of physicists, capable of combining advanced knowledge in Physics with high-level training in Data Science.
+
+
 My main interests are Machine Learning, Artificial Intelligence, Statistics and in general the applications of Data Analysis techniques in "real-world" situations.
 I really enjoy working as a team and I am eager to improve myself learning new things from other people.
+
+
 I developed a passion for computers, smartphones and for the whole tech-world. Moreover I am especially enthusiastic about sports, such as Soccer and Formula1 Grand Prix.
 
 ### 🕵🏻‍♂️ Contact info
