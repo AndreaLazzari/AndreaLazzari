@@ -6,12 +6,9 @@ After a bachelor's degree in Physics, in October 2021 I started the master's deg
 
 
 My main interests are Machine Learning, Artificial Intelligence, Statistics and in general the applications of Data Analysis techniques in "real-world" situations.
-I really enjoy working as a team and I am eager to improve myself learning new things from other people.
 
+To learn more about me, visit my personal portfolio at --> 
 
-I developed a passion for computers, smartphones and for the whole tech-world.
-
-Moreover I am especially enthusiastic about sports, such as Soccer and Formula1 Grand Prix.
 
 ### 🕵🏻‍♂️ Contact info
 * E-mail: a.lazzari@outlook.it
