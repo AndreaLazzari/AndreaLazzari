@@ -3,7 +3,6 @@
 I am a Master student in Physics of Data, in my Github you can find some projects developed during my studies ⚡
 
 After a bachelor's degree in Physics, in October 2021 I started the master's degree in Physics of Data at the University of Padua. 
-
 The master aims at training a new generation of physicists, capable of combining advanced knowledge in Physics with high-level training in Data Science.
 
 
