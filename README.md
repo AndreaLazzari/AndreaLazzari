@@ -24,4 +24,4 @@ To learn more about me, visit my personal website --> https://andrealazzari.gith
 ![Stats](https://github-readme-stats.vercel.app/api?username=AndreaLazzari&show_icons=true&line_height=20)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaLazzari&layout=compact&langs_count=8&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaLazzari&layout=compact&langs_count=10&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
